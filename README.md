@@ -4,7 +4,7 @@ This project is a simple registration form built with React.
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://my-awesome-project.netlify.app).
+Check out the live demo of the project [here](https://master--sweet-alfajores-3e7ec5.netlify.app/).
 
 ## Getting Started
 
